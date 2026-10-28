@@ -1,0 +1,4 @@
+Experiment,Best Val Accuracy
+Baseline,0.815752
+LR=1e-4,0.818603
+Dropout=0.3,0.795795
